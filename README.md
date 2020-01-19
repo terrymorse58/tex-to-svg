@@ -1,6 +1,6 @@
 # tex-to-svg
 
-Convert a TeX file from the command line to SVG
+Convert a TeX file to SVG from the command line
 
 ---
 
