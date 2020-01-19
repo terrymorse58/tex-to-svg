@@ -1,0 +1,14 @@
+{
+  "name": "tex-to-svg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tex2svg samples/sample.tex"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "mathjax-node-sre": "*"
+  }
+}
